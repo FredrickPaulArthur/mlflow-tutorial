@@ -211,3 +211,4 @@ chat_*.json
 generated_*.txt
 
 mlruns/
+MLFLOW_TRACKING_URI/
